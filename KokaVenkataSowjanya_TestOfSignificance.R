@@ -1,7 +1,4 @@
 # Koka Venkata Sowjanya
-#Due 11:59pm; Oct 15, 2020
-# Assignment 2: North Carolina births
-
 #=========================================================================
 
 # Question 1 : Read the dataset straight from the OpenIntro webpage
